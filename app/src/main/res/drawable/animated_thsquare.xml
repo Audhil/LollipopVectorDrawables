@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/thsquare">
+
+    <target
+        android:animation="@animator/converted_to_triangle"
+        android:name="square" />
+
+    <!--color change add this if needed -->
+    <target
+        android:animation="@animator/converted_color"
+        android:name="square" />
+
+</animated-vector>

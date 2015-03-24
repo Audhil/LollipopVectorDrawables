@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_ids">
+        <item>android_robot</item>
+        <item>animated_android_robot</item>
+        <item>animated_sstar</item>
+    </string-array>
+</resources>

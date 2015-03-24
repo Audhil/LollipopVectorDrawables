@@ -1,0 +1,7 @@
+<resources>
+    <string name="navigateToNextActivity">moveOn</string>
+    <string name="app_name">VectorDrawableDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
